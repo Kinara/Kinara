@@ -28,7 +28,7 @@ for (int i = 0; i< word.length(); i++)
 {
     name[i]=word.charAt(i);
 }
-
+System.out.print("Kinara Soni");
 System.out.print(name[i]);
         //definig array
        // char [] word = new char [5];
