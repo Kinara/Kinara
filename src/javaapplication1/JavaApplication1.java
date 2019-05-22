@@ -30,6 +30,7 @@ for (int i = 0; i< word.length(); i++)
 }
 System.out.print("Kinara Soni");
 System.out.print(name[i]);
+        System.out.print("HI");
         //definig array
        // char [] word = new char [5];
         //word[0]='H';
