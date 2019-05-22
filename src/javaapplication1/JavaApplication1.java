@@ -24,6 +24,7 @@ public class JavaApplication1 {
         String word = input.next();// input word from user
         char [] name = new char [word.length()];
         System.out.println(name.length);
+     System.out.print("DSKDJLS");
 // store the word in array
 for (int i = 0; i< word.length(); i++)
 {
